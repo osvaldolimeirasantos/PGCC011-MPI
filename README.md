@@ -38,11 +38,13 @@ O código TriplasPitagoricasParaleloMpi.c ao ser executado define a variavel qua
 
 ## 🚀 Como executar o projeto
 
-### Pré-requisitos: É necessário possuir um compilador GCC instalado.
+# Pré-requisitos: É necessário possuir um compilador GCC instalado.
 
-Para executar o serial, o arquivo TriplasPitagoricasSerial.c deve ser copiado para o servidor e estando no local onde o arquivo foi salvo, deve ser executado o seguinte comando: gcc TriplasPitagoricasSerial.c -o TriplasPitagoricasSerial ./TriplasPitagoricasSerial
+Para executar o serial, o arquivo TriplasPitagoricasSerial.c deve ser copiado para o servidor e estando no local onde o arquivo foi salvo, deve ser executado o seguinte comando: 
+gcc TriplasPitagoricasSerial.c -o TriplasPitagoricasSerial ./TriplasPitagoricasSerial
 
-Para executar o serial, o arquivo TriplasPitagoricasParaleloMpi.c deve ser copiado para o servidor e estando no local onde o arquivo foi salvo, deve ser executado o seguinte comando: mpicc TriplaParaleloMpi.c -o TriplaParaleloMpi mpirun -np 2(aqui definimos o número de works/processos) ./TriplaParaleloMpi
+Para executar o serial, o arquivo TriplasPitagoricasParaleloMpi.c deve ser copiado para o servidor e estando no local onde o arquivo foi salvo, deve ser executado o seguinte comando: 
+mpicc TriplaParaleloMpi.c -o TriplaParaleloMpi mpirun -np 2(aqui definimos o número de works/processos) ./TriplaParaleloMpi
 
 
 ## 📝 Formato e conteúdos dos arquivos de saída
