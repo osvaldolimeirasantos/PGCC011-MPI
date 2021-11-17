@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Os códigos deste projeto tem como função executar o cálculo da tripla pitagórica de forma serial e de forma paralela utilizando MPI.
+    Os códigos deste projeto tem como função executar o cálculo da quantidade de triplas pitagóricas em um intervalo, de forma serial e de forma paralela utilizando MPI.
 </h3>
 
 <h4 align="left">
