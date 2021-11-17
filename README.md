@@ -28,7 +28,7 @@ O arquivo TriplasPitagoricasSerial.c contem o codigo serial para a execução do
 O arquivo TriplasPitagoricasParaleloMpi.c contem o codigo paralelo para a execução do calculo das triplas na linguagem C. 
 
 
-### Explicação geral do funcionamento dos códigos
+## Explicação geral do funcionamento dos códigos
 
 O código TriplasPitagoricasSerial.c possui uma função chamada tripla_pitagorica_c. Essa função possui três laços FOR aninhados que através de analise combinatoria realizam o calculo da quantidade de triplas pitagoricas. Além desse calculo, a função também cria o arquivo tripla.txt que irá receber o resultado dos calculos. Ao ser executado, o codigo define a variavel quantidade e seu respectivo valor. Essa variavel será utilizada dentro da função.
 
