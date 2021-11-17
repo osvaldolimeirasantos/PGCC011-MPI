@@ -14,10 +14,10 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [O que é cada arquivo do projeto](#-o-que-é-cada-arquivo-do-projeto)
-   * [Explicação geral do funcionamento dos códigos](#explicação-geral-do-funcionamento-dos-códigos)
+   * [Explicação geral do funcionamento dos códigos](#-explicação-geral-do-funcionamento-dos-códigos)
    * [Como executar o projeto](#-como-executar-o-projeto)
    * [Formato e conteúdos dos arquivos de saída](#-Formato-e-conteúdos-dos-arquivos-de-saída)
-   * [Autores](#autores)
+   * [Autores](#-autores)
 <!--te-->
 
 
