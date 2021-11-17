@@ -45,6 +45,7 @@ Para executar o serial, o arquivo TriplasPitagoricasSerial.c deve ser copiado pa
 gcc TriplasPitagoricasSerial.c -o TriplasPitagoricasSerial ./TriplasPitagoricasSerial
 
 
+
 Para executar o serial, o arquivo TriplasPitagoricasParaleloMpi.c deve ser copiado para o servidor e estando no local onde o arquivo foi salvo, deve ser executado o seguinte comando: 
 
 mpicc TriplaParaleloMpi.c -o TriplaParaleloMpi mpirun -np 2(aqui definimos o número de works/processos) ./TriplaParaleloMpi
