@@ -53,7 +53,7 @@ mpicc TriplaParaleloMpi.c -o TriplaParaleloMpi mpirun -np 2(aqui definimos o nú
 
 ## 📝 Formato e conteúdos dos arquivos de saída
 
-Os arquivos são no formato txt.
+Os arquivos são no formato txt. O conteúdo são as triplas encontradas e quantidade total.
 
 
 ## 🦸 Autores
